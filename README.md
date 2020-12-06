@@ -8,6 +8,7 @@
 
 
 ### Technologies
+
 ![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)
 ![Azure](https://img.shields.io/badge/-Azure-fff?&logo=Amazon-AWS&logoColor=232F3E)
 ![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker)
@@ -20,7 +21,13 @@
 <!-- emacs, snowflake, -->
 
 
+### GitHub Stats
+
+<a href="https://www.adamalston.com/"><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=wk-tan&show_icons=true&count_private=true&hide_title=true&include_all_commits=true" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wk-tan&layout=compact&hide_title=true" /></a>
+
+
 ### This Week Time Spent
+
 <!--START_SECTION:waka-->
 ```text
 Python     3 hrs 37 mins   ███████▒░░░░░░░░░░░░░░░░░   29.92 % 
@@ -30,6 +37,3 @@ YAML       1 hr 41 mins    ███▓░░░░░░░░░░░░░�
 Markdown   39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
 ```
 <!--END_SECTION:waka-->
-
-
-<a href="https://www.adamalston.com/"><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=wk-tan&show_icons=true&count_private=true&hide_title=true&include_all_commits=true" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wk-tan&layout=compact&hide_title=true" /></a>
