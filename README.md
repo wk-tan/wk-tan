@@ -30,7 +30,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-YAML     1 hr 1 min      ███████████████████████░░   91.92 % 
-Python   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
