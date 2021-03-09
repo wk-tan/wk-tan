@@ -30,6 +30,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python   53 mins         ██████████████▓░░░░░░░░░░   58.58 % 
+YAML     30 mins         ████████▒░░░░░░░░░░░░░░░░   32.88 % 
+Docker   7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
 ```
 <!--END_SECTION:waka-->
