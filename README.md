@@ -30,9 +30,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python   9 mins          █████████▓░░░░░░░░░░░░░░░   38.39 % 
-Text     7 mins          ███████░░░░░░░░░░░░░░░░░░   27.50 % 
-SQL      6 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.37 % 
-TOML     1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
