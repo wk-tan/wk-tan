@@ -1,15 +1,14 @@
-name: Update stats
+name: Update WakaTime Stats
 
 on:
   schedule:
-    # Runs every day
     - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
-  update-readme:
-    name: Update Readme with Metrics
+  update-wakatime-stats:
     runs-on: ubuntu-latest
+
     steps:
       - uses: athul/waka-readme@master
         with:
