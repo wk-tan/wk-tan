@@ -34,10 +34,6 @@ I have been working in different fields, such as human resources, e-commerce, et
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-### GitHub Stats
-<a href="https://www.adamalston.com/"><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=wk-tan&show_icons=true&count_private=true&hide_title=true&include_all_commits=true" /></a>
-
-
 ### This Week Time Spent
 <!--START_SECTION:waka-->
 ```text
