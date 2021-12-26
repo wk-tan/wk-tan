@@ -1,33 +1,44 @@
-## Hi, I'm Wai Kiat 👋
+## Hi! 👋
 
-### Languages
-
-![Python](https://img.shields.io/badge/-Python-fff?&logo=python)
-![Julia](https://img.shields.io/badge/-Julia-fff?&logo=julia)
-![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
+I'm Wai Kiat and I'm a data engineer who is passionate about creating technology to elevate people.\
+I have been working in different fields, such as human resources, e-commerce, etc.
 
 
-### Technologies
+### Programming Languages
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)
-![Azure](https://img.shields.io/badge/-Azure-fff?&logo=Amazon-AWS&logoColor=232F3E)
-![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker)
-![Jira](https://img.shields.io/badge/-Jira-fff?&logo=jira-software&logoColor=0052CC)
-![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000)
-![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat-square&logo=mongodb&logoColor=47A248)
-![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)
-![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
-<!-- emacs, snowflake, -->
+
+### Tech Stack
+#### Cloud
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+#### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+#### OS
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+![Pop! OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+#### Others
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 ### GitHub Stats
-
-<a href="https://www.adamalston.com/"><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=wk-tan&show_icons=true&count_private=true&hide_title=true&include_all_commits=true" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wk-tan&layout=compact&hide_title=true" /></a>
+<a href="https://www.adamalston.com/"><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=wk-tan&show_icons=true&count_private=true&hide_title=true&include_all_commits=true" /></a>
 
 
 ### This Week Time Spent
-
 <!--START_SECTION:waka-->
 ```text
 Text         1 hr 3 mins     ███████████▒░░░░░░░░░░░░░   45.94 % 
@@ -37,3 +48,6 @@ Docker       5 mins          █░░░░░░░░░░░░░░░░
 Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 ```
 <!--END_SECTION:waka-->
+
+<a href="https://www.linkedin.com/in/waikiattan/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
+<a href="https://github.com/wk-tan" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
