@@ -32,11 +32,11 @@ I have been working in different fields, such as human resources, e-commerce, et
 ### This Week Time Spent
 <!--START_SECTION:waka-->
 ```text
-Python     1 hr 44 mins    ██████████▒░░░░░░░░░░░░░░   41.67 % 
-SQL        1 hr 12 mins    ███████▒░░░░░░░░░░░░░░░░░   29.02 % 
-Markdown   50 mins         █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-Docker     16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-Text       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Python     1 hr 44 mins    ██████████▓░░░░░░░░░░░░░░   42.21 % 
+SQL        1 hr 12 mins    ███████▒░░░░░░░░░░░░░░░░░   29.47 % 
+Markdown   50 mins         █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+Docker     16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+TOML       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 ```
 <!--END_SECTION:waka-->
 
