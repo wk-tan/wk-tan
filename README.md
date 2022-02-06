@@ -32,8 +32,7 @@ I have been working in different fields, such as human resources, e-commerce, et
 ### This Week Time Spent
 <!--START_SECTION:waka-->
 ```text
-Docker   20 mins         ████████████████████▒░░░░   81.21 % 
-YAML     4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.35 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
