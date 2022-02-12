@@ -32,8 +32,8 @@ I have been working in different fields, such as human resources, e-commerce, et
 ### This Week Time Spent
 <!--START_SECTION:waka-->
 ```text
-Text   1 hr 17 mins    ████████████████████▒░░░░   80.86 % 
-SQL    18 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.14 % 
+Text   1 hr 39 mins    █████████████████████░░░░   84.54 % 
+SQL    18 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
 ```
 <!--END_SECTION:waka-->
 
