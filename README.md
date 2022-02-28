@@ -31,13 +31,11 @@ I have been working in different fields, such as human resources, e-commerce, et
 
 ### This Week Time Spent
 <!--START_SECTION:waka-->
+
 ```text
-Other    3 hrs 14 mins   █████████░░░░░░░░░░░░░░░░   36.19 % 
-Python   1 hr 52 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.93 % 
-YAML     1 hr 51 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.79 % 
-SQL      44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-JSON     41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Other        2 hrs 44 mins   ████████▓░░░░░░░░░░░░░░░░   34.55 %
 ```
+
 <!--END_SECTION:waka-->
 
 <a href="https://www.linkedin.com/in/waikiattan/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
