@@ -33,8 +33,8 @@ I have been working in different fields, such as human resources, e-commerce, et
 <!--START_SECTION:waka-->
 
 ```text
-Python   3 hrs 32 mins   ███████████▒░░░░░░░░░░░░░   45.08 %
-Other    2 hrs 14 mins   ███████░░░░░░░░░░░░░░░░░░   28.59 %
+Python     6 hrs 35 mins   ██████████████▓░░░░░░░░░░   58.66 %
+Other      2 hrs 17 mins   █████░░░░░░░░░░░░░░░░░░░░   20.38 %
 ```
 
 <!--END_SECTION:waka-->
