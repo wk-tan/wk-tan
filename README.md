@@ -33,8 +33,8 @@ I have been working in different fields, such as human resources, e-commerce, et
 <!--START_SECTION:waka-->
 
 ```text
-Docker       2 hrs 33 mins   █████████░░░░░░░░░░░░░░░░   36.09 %
-Other        1 hr 44 mins    ██████░░░░░░░░░░░░░░░░░░░   24.57 %
+Python   1 hr 46 mins    ████████████▒░░░░░░░░░░░░   49.77 %
+Other    1 hr 18 mins    █████████▒░░░░░░░░░░░░░░░   36.78 %
 ```
 
 <!--END_SECTION:waka-->
