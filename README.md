@@ -33,9 +33,10 @@ I have been working in different fields, such as human resources, e-commerce, et
 <!--START_SECTION:waka-->
 
 ```text
-Python       7 hrs 57 mins   █████████████████░░░░░░░░   67.42 %
-Markdown     1 hr 5 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
-Other        44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+Python       9 hrs 6 mins    ██████████████░░░░░░░░░░░   55.89 %
+Markdown     2 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
+Bash         1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
+Other        57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
 ```
 
 <!--END_SECTION:waka-->
