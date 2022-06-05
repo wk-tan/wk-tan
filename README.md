@@ -33,7 +33,8 @@ I have been working in different fields, such as human resources, e-commerce, et
 <!--START_SECTION:waka-->
 
 ```text
-Other      3 hrs 27 mins   █████████▒░░░░░░░░░░░░░░░   37.96 %
+YAML       6 hrs 4 mins    ███████████░░░░░░░░░░░░░░   44.49 %
+Other      2 hrs 38 mins   █████░░░░░░░░░░░░░░░░░░░░   19.38 %
 ```
 
 <!--END_SECTION:waka-->
