@@ -33,11 +33,12 @@ I have been working in different fields, such as human resources, e-commerce, et
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     3 hrs 45 mins   ███████▒░░░░░░░░░░░░░░░░░   28.68 %
-Bash         3 hrs 3 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.26 %
-YAML         2 hrs 28 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.87 %
-SQL          1 hr 35 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
-Other        1 hr 29 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
+Markdown     3 hrs 45 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.12 %
+JSON         3 hrs 44 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.04 %
+Bash         2 hrs 52 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.68 %
+YAML         2 hrs 17 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
+SQL          1 hr 35 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
+Other        1 hr 29 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
 ```
 
 <!--END_SECTION:waka-->
