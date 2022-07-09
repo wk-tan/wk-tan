@@ -33,7 +33,7 @@ I have been working in different fields, such as human resources, e-commerce, et
 <!--START_SECTION:waka-->
 
 ```text
-Other   52 mins         ███████████████████▓░░░░░   79.11 %
+Other   32 mins         ██████████████▒░░░░░░░░░░   57.99 %
 ```
 
 <!--END_SECTION:waka-->
