@@ -33,12 +33,10 @@ I have been working in different fields, such as human resources, e-commerce, et
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   20 mins         ███████▓░░░░░░░░░░░░░░░░░   30.09 %
-YAML       18 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.89 %
-SQL        9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 %
-JSON       9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
-Docker     7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.59 %
-Python     3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+Markdown   20 mins         ██████████▒░░░░░░░░░░░░░░   41.69 %
+YAML       18 mins         █████████▒░░░░░░░░░░░░░░░   37.26 %
+Docker     7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
+Python     3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
 ```
 
 <!--END_SECTION:waka-->
