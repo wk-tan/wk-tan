@@ -33,9 +33,10 @@ I have been working in different fields, such as human resources, e-commerce, et
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   1 hr            ████████░░░░░░░░░░░░░░░░░   32.29 %
-JSON       49 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.96 %
-Other      42 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.70 %
+Markdown   1 hr            ██████▒░░░░░░░░░░░░░░░░░░   25.19 %
+JSON       48 mins         █████░░░░░░░░░░░░░░░░░░░░   20.14 %
+Python     48 mins         █████░░░░░░░░░░░░░░░░░░░░   19.83 %
+Other      44 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.54 %
 ```
 
 <!--END_SECTION:waka-->
