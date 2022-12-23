@@ -33,10 +33,10 @@ I have been working in different fields, such as human resources, e-commerce, et
 <!--START_SECTION:waka-->
 
 ```text
-TOML     3 mins          ███████████▒░░░░░░░░░░░░░   45.35 %
-Docker   2 mins          ████████▓░░░░░░░░░░░░░░░░   34.82 %
-JSON     1 min           ████▒░░░░░░░░░░░░░░░░░░░░   17.69 %
-SQL      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Markdown   36 mins         █████████████████▒░░░░░░░   69.56 %
+SQL        11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.10 %
+TOML       3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
+JSON       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
 ```
 
 <!--END_SECTION:waka-->
