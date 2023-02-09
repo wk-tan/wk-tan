@@ -33,8 +33,8 @@ I have been working in different fields, such as human resources, e-commerce, et
 <!--START_SECTION:waka-->
 
 ```text
-Terraform   0 secs          ███████████████████████░░   91.41 %
-Python      0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
+Python      25 mins         ████████████████████████░   96.24 %
+Terraform   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
 ```
 
 <!--END_SECTION:waka-->
