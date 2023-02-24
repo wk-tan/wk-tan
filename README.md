@@ -33,12 +33,11 @@ I have been working in different fields, such as human resources, e-commerce, et
 <!--START_SECTION:waka-->
 
 ```text
-Terraform   1 hr 27 mins    ███████████████▓░░░░░░░░░   62.56 %
-YAML        28 mins         █████░░░░░░░░░░░░░░░░░░░░   20.17 %
-Python      13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
-JSON        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-SQL         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-Other       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Terraform   1 hr 6 mins     ███████████████████▓░░░░░   78.92 %
+YAML        5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+Python      5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+SQL         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+Other       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
 ```
 
 <!--END_SECTION:waka-->
