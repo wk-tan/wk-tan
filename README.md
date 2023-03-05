@@ -33,10 +33,10 @@ I have been working in different fields, such as human resources, e-commerce, et
 <!--START_SECTION:waka-->
 
 ```text
-Python      9 mins          ███████▓░░░░░░░░░░░░░░░░░   30.82 %
-Terraform   7 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.30 %
-Text        6 mins          █████░░░░░░░░░░░░░░░░░░░░   20.61 %
-Other       3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
+Terraform   3 hrs           ███████████████████░░░░░░   75.96 %
+Text        41 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.40 %
+Python      9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+Other       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 ```
 
 <!--END_SECTION:waka-->
