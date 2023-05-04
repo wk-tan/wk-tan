@@ -33,9 +33,7 @@ I have been working in different fields, such as human resources, e-commerce, et
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   1 hr 11 mins    █████████████▒░░░░░░░░░░░   53.03 %
-JSON       1 hr            ███████████░░░░░░░░░░░░░░   44.53 %
-Text       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Text   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
