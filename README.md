@@ -32,12 +32,12 @@ I have been working in different fields, such as human resources, e-commerce, et
 ### This Week Time Spent
 <!--START_SECTION:waka-->
 
-```text
-Terraform   1 hr 8 mins     ████████████▒░░░░░░░░░░░░   48.74 %
-Text        29 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.18 %
-SQL         23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.68 %
-JSON        10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
-Python      5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+```txt
+Terraform   1 hr 8 mins     ██████████████▒░░░░░░░░░░   56.95 %
+SQL         23 mins         █████░░░░░░░░░░░░░░░░░░░░   19.48 %
+JSON        10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
+Text        9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
+Python      5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
 ```
 
 <!--END_SECTION:waka-->
