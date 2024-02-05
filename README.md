@@ -33,9 +33,9 @@ I have been working in different fields, such as human resources, e-commerce, et
 <!--START_SECTION:waka-->
 
 ```txt
-JSON   1 hr 8 mins     █████████████▒░░░░░░░░░░░   53.53 %
-YAML   36 mins         ███████░░░░░░░░░░░░░░░░░░   28.29 %
-SQL    23 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.18 %
+JSON   36 mins         ██████████░░░░░░░░░░░░░░░   40.24 %
+YAML   36 mins         ██████████░░░░░░░░░░░░░░░   39.68 %
+SQL    18 mins         █████░░░░░░░░░░░░░░░░░░░░   20.08 %
 ```
 
 <!--END_SECTION:waka-->
