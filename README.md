@@ -33,10 +33,10 @@ I have been working in different fields, such as human resources, e-commerce, et
 <!--START_SECTION:waka-->
 
 ```txt
-Other      12 mins         ██████████▓░░░░░░░░░░░░░░   43.28 %
-SQL        9 mins          ████████▒░░░░░░░░░░░░░░░░   33.51 %
-Markdown   5 mins          █████░░░░░░░░░░░░░░░░░░░░   19.97 %
-Python     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+Other      14 mins         █████████████▒░░░░░░░░░░░   52.90 %
+SQL        9 mins          ████████▓░░░░░░░░░░░░░░░░   35.18 %
+Markdown   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
+Python     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
 ```
 
 <!--END_SECTION:waka-->
