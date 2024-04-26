@@ -33,11 +33,11 @@ I have been working in different fields, such as human resources, e-commerce, et
 <!--START_SECTION:waka-->
 
 ```txt
-Python       2 hrs 46 mins   ████████████▓░░░░░░░░░░░░   51.07 %
-TOML         1 hr            ████▓░░░░░░░░░░░░░░░░░░░░   18.67 %
-YAML         57 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.56 %
-JSON         18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
-Text         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Python       2 hrs 45 mins   █████████████▒░░░░░░░░░░░   52.84 %
+YAML         57 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.30 %
+TOML         49 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
+JSON         18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+Text         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
 ```
 
 <!--END_SECTION:waka-->
