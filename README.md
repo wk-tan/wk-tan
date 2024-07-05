@@ -33,10 +33,9 @@ I have been working in different fields, such as human resources, e-commerce, et
 <!--START_SECTION:waka-->
 
 ```txt
-Python   37 mins         ████████████▒░░░░░░░░░░░░   49.69 %
-Other    29 mins         █████████▓░░░░░░░░░░░░░░░   39.19 %
-JSON     5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-SQL      2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+Other   29 mins         ████████████████████▒░░░░   81.86 %
+JSON    4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
+SQL     2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
 ```
 
 <!--END_SECTION:waka-->
