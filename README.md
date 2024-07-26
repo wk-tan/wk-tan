@@ -33,8 +33,10 @@ I have been working in different fields, such as human resources, e-commerce, et
 <!--START_SECTION:waka-->
 
 ```txt
-Text     16 mins         ███████████████████████▓░   94.81 %
-Docker   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+YAML     35 mins         ████████████████▓░░░░░░░░   66.34 %
+Text     16 mins         ████████░░░░░░░░░░░░░░░░░   31.58 %
+Docker   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+SQL      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
