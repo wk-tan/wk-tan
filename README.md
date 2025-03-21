@@ -33,9 +33,7 @@ I have been working in different fields, such as human resources, e-commerce, et
 <!--START_SECTION:waka-->
 
 ```txt
-SQL     33 mins         ████████████████▓░░░░░░░░   66.03 %
-Other   15 mins         ███████▓░░░░░░░░░░░░░░░░░   30.02 %
-JSON    1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+Other   15 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
