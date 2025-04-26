@@ -33,10 +33,10 @@ I have been working in different fields, such as human resources, e-commerce, et
 <!--START_SECTION:waka-->
 
 ```txt
-YAML       57 mins         ██████████▒░░░░░░░░░░░░░░   40.89 %
-Python     46 mins         ████████▒░░░░░░░░░░░░░░░░   33.68 %
-JSON       31 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.33 %
-Markdown   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+YAML       1 hr 6 mins     ███████████░░░░░░░░░░░░░░   44.51 %
+Python     46 mins         ████████░░░░░░░░░░░░░░░░░   31.50 %
+JSON       31 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.09 %
+Markdown   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
 ```
 
 <!--END_SECTION:waka-->
