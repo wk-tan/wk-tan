@@ -33,8 +33,7 @@ I have been working in different fields, such as human resources, e-commerce, et
 <!--START_SECTION:waka-->
 
 ```txt
-SQL    0 secs          ████████████████▓░░░░░░░░   66.06 %
-TOML   0 secs          ████████▒░░░░░░░░░░░░░░░░   33.94 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
