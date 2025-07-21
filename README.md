@@ -35,7 +35,7 @@ I have been working in different fields, such as human resources, e-commerce, et
 ```txt
 Other      26 mins         ████████████▓░░░░░░░░░░░░   50.62 %
 YAML       13 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.98 %
-Python     12 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.09 %
+Python     12 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.08 %
 JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
