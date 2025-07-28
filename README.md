@@ -34,10 +34,10 @@ I have been working in different fields, such as human resources, e-commerce, et
 
 ```txt
 Python   56 mins         █████████████░░░░░░░░░░░░   51.38 %
-YAML     20 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.01 %
-TOML     13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
+YAML     20 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.02 %
+TOML     13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
 JSON     9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
-Other    8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
+Other    8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
 ```
 
 <!--END_SECTION:waka-->
