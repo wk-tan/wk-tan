@@ -33,9 +33,8 @@ I have been working in different fields, such as human resources, e-commerce, et
 <!--START_SECTION:waka-->
 
 ```txt
-Other   59 mins         ████████████████████░░░░░   80.63 %
-TOML    14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.04 %
-HTML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Other   59 mins         █████████████████████████   99.58 %
+HTML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
